@@ -147,6 +147,11 @@ depuis une source externe vers l'UPF sur le port UDP 8805.
 ---
 
 ## Structure du dépôt
+simulation-5G-PFCP/
+├── configs/configs/        
+├── Codou GUEYE Mame B...  
+├── Documentation technique
+└── README.md 
 
 ## Auteurs du projet
 
